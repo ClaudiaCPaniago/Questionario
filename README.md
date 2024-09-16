@@ -2,6 +2,10 @@
 
  Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
 
+ ![preview](assets/preview.png)
+
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
